@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ian Duncan]]></title>
         <description><![CDATA[Ian Duncan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ian-duncan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 15:07:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 16:23:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ian-duncan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Breathing in and breathing out, taking in and letting go, these suddenly became as one body with the cycles of growth and decay, fullness and emptiness, Heaven and Earth."</p>]]></description>
+            <link>https://thegrid.ai/ian-duncan/a56249a2-192f-4d31-b435-7d821b7db8af/index.html</link>
+            <guid isPermaLink="false">a56249a2-192f-4d31-b435-7d821b7db8af</guid>
+            <pubDate>Tue, 09 Feb 2016 16:22:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Insight Alchemy]]></title>
-            <description><![CDATA[<article><h1>Insight Alchemy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07978bf3aaf95223b64ca1f132ccef8e643cbc0.jpg"></article>]]></description>
-            <link>undefinedinsight-alchemy/index.html</link>
+            <description><![CDATA[<article><h1>Insight Alchemy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f03831de16ac36385350cbb9b6423ff6836a44d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ian-duncan/insight-alchemy/index.html</link>
             <guid isPermaLink="false">763735c1-9c7b-4067-9883-ba634690772a</guid>
             <pubDate>Tue, 09 Feb 2016 15:06:56 GMT</pubDate>
         </item>
